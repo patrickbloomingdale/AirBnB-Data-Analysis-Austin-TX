@@ -24,7 +24,7 @@ For this project, I created a blog post and Github repository for my data scienc
 - from sklearn.model_selection import train_test_split
 - from sklearn.metrics import r2_score, mean_squared_error
 - from sklearn import metrics
-- import seaborn as sns
+- seaborn as sns
 
 ### Project files
 - **listings_austin.csv.gz** - dataset used for analysis
