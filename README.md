@@ -1,4 +1,4 @@
-# AirBnB-Data-Analysis-Austin-TX
+# Analyzing Airbnb Austin using Data Science
 Project 1, Udacity's Data Scientist Nanodegree
 ***
 ## Introduction
