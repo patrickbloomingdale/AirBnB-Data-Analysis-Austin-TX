@@ -10,13 +10,13 @@ For this project, I created a blog post and Github repository for my data scienc
 - Share my insights with stakeholders.
 
 ### Libraries
-- import pandas as pd
-- import numpy as np
+- pandas as pd
+- numpy as np
 - from collections import defaultdict
-- import calendar
-- import datetime
-- import seaborn as sns
-- import matplotlib.pyplot as plt 
+- calendar
+- datetime
+- seaborn as sns
+- matplotlib.pyplot as plt 
 - #make sure plots render within the notebook
 - %matplotlib inline 
 - from matplotlib import pyplot
