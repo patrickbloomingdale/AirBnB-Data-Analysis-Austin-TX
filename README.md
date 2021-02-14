@@ -10,13 +10,13 @@ For this project, I created a blog post and Github repository for my data scienc
 - Share my insights with stakeholders.
 
 ### Libraries
-- pandas as pd
-- numpy as np
+- pandas
+- numpy
 - from collections import defaultdict
 - calendar
 - datetime
 - seaborn as sns
-- matplotlib.pyplot as plt 
+- matplotlib.pyplot 
 - #make sure plots render within the notebook
 - %matplotlib inline 
 - from matplotlib import pyplot
@@ -24,12 +24,11 @@ For this project, I created a blog post and Github repository for my data scienc
 - from sklearn.model_selection import train_test_split
 - from sklearn.metrics import r2_score, mean_squared_error
 - from sklearn import metrics
-- seaborn as sns
+- seaborn
 
 ### Project files
 - **listings_austin.csv.gz** - dataset used for analysis
-- **reviews_austin.csv.gz** - dataset used for analysis
-- **investigate-a-dataset-template.ipynb** - original Jypyter Notebook
+- **calendar_austin.csv.gz** - dataset used for analysis
 - **AirBnB Data Analysis, Austin, TX.ipynb** - final project 
 - **AirBnB Data Analysis, Austin, TX.html** - final project
 
