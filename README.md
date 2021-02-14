@@ -28,7 +28,8 @@ For this project, I created a blog post and Github repository for my data scienc
 
 ### Project files
 - **listings_austin.csv.gz** - dataset used for analysis
-- **calendar_austin.csv.gz** - dataset used for analysis
+- **calendar_austin.csv.gz** - dataset used for analysis<br>
+**NOTE:** The calendar dataset is to large to be uploaded to github and can be downloaded from Airbnb: http://insideairbnb.com/get-the-data.html.
 - **AirBnB Data Analysis, Austin, TX.ipynb** - final project 
 - **AirBnB Data Analysis, Austin, TX.html** - final project
 
